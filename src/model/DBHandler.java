@@ -8,7 +8,7 @@ public class DBHandler {
     static String server = "127.0.0.1:3306"; // MySQL 서버 주소
     static String database = "parkinglot"; // MySQL DATABASE 이름
     static String user_name = "root"; //  MySQL 서버 아이디
-    static String password = "youngmango935"; // MySQL 서버 비밀번호
+    static String password = "***********"; // MySQL 서버 비밀번호
     Connection con = null;
 
     public DBHandler() {
