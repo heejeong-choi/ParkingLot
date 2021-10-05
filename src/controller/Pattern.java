@@ -14,7 +14,6 @@ public class Pattern {
 	    	script.println("<script>alert('"+txt1+"')history.back();</script>");
 	    	script.flush();
 		
-	}
-	
+		}
 	}
 }
